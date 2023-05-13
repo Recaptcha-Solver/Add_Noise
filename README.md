@@ -1,9 +1,5 @@
 # Add_Noise
 
-<img width="299" alt="image" src="https://github.com/Recaptcha-Solver/Add_Noise/assets/87455115/b15490bc-0768-42fd-acc2-5bd276746c5e">
-
-
-디렉토리 구조는 위와 같습니다.
 
 requirements.txt로 패키지 설치를 한 후, src/add_noise.py 를 실행하면 됩니다.
 
